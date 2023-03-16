@@ -1,0 +1,64 @@
+.navbar{
+    padding: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #8D7B68;
+    color: aliceblue;
+}
+.inp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.inpBox{
+    
+    border-radius: 10px;
+    border: none;
+    padding: 0.4rem;
+    margin: 1rem;
+}
+.btn{
+    background-color: #1A120B;
+    color: aliceblue;
+    border-radius: 10px;
+
+}
+.movies{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+.movieCard{
+    width: 350px;
+    border: 1px solid black;
+    margin: 0.5rem;
+    border-radius: 10px;
+}
+.none{
+    flex: 1;
+    justify-content: center;
+    align-content: center;
+}
+.load{
+    position: absolute;
+    left: 40%;
+    top: 27%;
+}
+.deets{
+    background-image: url('./bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    opacity: 0.75;
+    height: 100vh;
+}
+.details{
+    padding: 3rem;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
