@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/imdb/static/css/main.61f05761.css",
-    "main.js": "/imdb/static/js/main.26e6dbd3.js",
+    "main.js": "/imdb/static/js/main.6c12ee0e.js",
     "static/js/787.78f264be.chunk.js": "/imdb/static/js/787.78f264be.chunk.js",
     "static/media/bg.jpg": "/imdb/static/media/bg.b2fcd98fd09e7b36d986.jpg",
     "static/media/projecter.gif": "/imdb/static/media/projecter.6b2a69903d53f90f66a1.gif",
     "index.html": "/imdb/index.html",
     "main.61f05761.css.map": "/imdb/static/css/main.61f05761.css.map",
-    "main.26e6dbd3.js.map": "/imdb/static/js/main.26e6dbd3.js.map",
+    "main.6c12ee0e.js.map": "/imdb/static/js/main.6c12ee0e.js.map",
     "787.78f264be.chunk.js.map": "/imdb/static/js/787.78f264be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61f05761.css",
-    "static/js/main.26e6dbd3.js"
+    "static/js/main.6c12ee0e.js"
   ]
 }
